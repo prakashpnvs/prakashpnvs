@@ -8,8 +8,7 @@ I am a Senior Software Engineer with significant experience in building Enterpri
 <br>
 
 ### Connect with me
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-https://www.linkedin.com/in/prakash-p-nyu
+<a href="https://www.linkedin.com/in/prakash-p-nyu"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <br>
 <br>
 <br>
