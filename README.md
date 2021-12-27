@@ -3,7 +3,7 @@ I am a Senior Software Engineer with significant experience in building Enterpri
 </br>My areas of interest include:
 - Backend Engineering
 - Distributed Systems
-- Cloud Platforms
+- Cloud Technologies
 - Security
 <br>
 
