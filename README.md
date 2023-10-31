@@ -1,10 +1,9 @@
 ## Hi there 👋
-I am a Senior Software Engineer with significant experience in building Enterprise level solutions.
+I am a Software Engineer with experience in building Enterprise level solutions.
 </br>My areas of interest include:
 - Backend Engineering
 - Distributed Systems
-- Cloud Technologies
-- Security
+- Cloud Development
 <br>
 
 ### Connect with me
