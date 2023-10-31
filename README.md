@@ -1,6 +1,7 @@
 ## Hi there 👋
 I am a Software Engineer with experience in building Enterprise level solutions.
-</br>My areas of interest include:
+</br>
+My areas of interest include:
 - Backend Engineering
 - Distributed Systems
 - Cloud Development
