@@ -5,6 +5,7 @@ My areas of interest include:
 - Backend Engineering
 - Distributed Systems
 - Cloud Development
+- Blockchain
 <br>
 
 ### Connect with me
